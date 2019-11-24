@@ -51,6 +51,7 @@ body {
 
 p {
     line-height: 25px;
+    text-align: justify;
 }
 
 .row img {
@@ -2326,7 +2327,3 @@ blockquote {
     }
 
 }
-
-
-
-
